@@ -6,7 +6,7 @@ This repository contains a bash script for displaying network information on Lin
 
 To set up and use the network information script, follow these instructions:
 
-1. Create a new file named `network_info.sh`:
+# 1. Create a new file named `network_info.sh`:
 
     nano network_info.sh
 
